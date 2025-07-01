@@ -17,5 +17,4 @@ Backend Developer focusing on Flask APIs and data handling.
 Captures user inputs and displays a thank-you message.
 
 ### ▶️ How to Launch
-```bash
 python app.py
